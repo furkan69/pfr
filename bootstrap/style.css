@@ -1,0 +1,21 @@
+.jumbotron{
+    background: url(https://images.unsplash.com/photo-1497935586351-b67a49e012bf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80) no-repeat center center fixed;
+    background-size: cover;
+    height: 43.750em;
+    margin: auto;
+    padding-top: 200px;
+}
+
+.material-icons.md-48 { 
+    font-size: 48px; 
+}
+
+.row{
+    padding: 100px;
+}
+
+footer{
+    background: url("https://www.runtastic.com/blog/wp-content/uploads/2017/04/thumbnail_energy-without-coffee_1200x800-1024x683.jpg") no repeat center center;
+    background-size: cover;
+    height: 30em;
+}   

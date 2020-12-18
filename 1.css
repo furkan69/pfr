@@ -1,0 +1,89 @@
+/*header*/
+
+header{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    /*font-family: 'MuseoModerno', cursive;*/
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand{
+    margin: 0 3%;
+}
+
+.H2{
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    -webkit-background-clip: text;
+    background-clip: text
+    
+}
+
+.premier{
+    background-color: #222;
+    margin: 0;
+    padding: 0;
+}
+
+.topsemaine{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.titre1{
+    background-color: rgba(169, 169, 169, 0.33);
+    
+}
+
+.furkan{
+    position: absolute;
+
+}
+
+a {
+    text-decoration:none;
+    text-align: center;
+    font-size: 1.3em;
+    color: white;
+    text-transform: uppercase;
+}
+.navbar a:after {
+    content: '';
+    display: block;
+    margin: auto;
+    height: 1px;
+    width: 0;
+    background: transparent;
+    transition: width .5s ease, background-color .5s ease;
+}
+div a:hover:after {
+    width: 90%;
+    background: white;
+}
+
+.sep{
+    border-bottom: 5px solid #A9A9A9;
+    text-align: center;
+}
+
+.spe{
+    border-top: 5px solid #A9A9A9;
+    border-bottom: 5px solid #A9A9A9;
+
+}
+
+
+.formulaire{
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
+
+footer{
+    background-color: #A9A9A9;
+}
